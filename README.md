@@ -1,2 +1,4 @@
 # music-player-
-spotify  clone
+spotify  copy
+author-vikas chaudhary
+
